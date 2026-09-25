@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.uzpexkv.cn/sitemap.xml
